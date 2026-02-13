@@ -37,4 +37,4 @@ It processes medical images and generates a 3D mesh or point cloud for visualiza
 └── README.md
 
 👨‍💻 Author
-Sourabh Homba
+Sourabh Hombal
